@@ -1,2 +1,2 @@
-# -examproject.github.io
+# examproject.github.io
 Мой выпускной проект 
